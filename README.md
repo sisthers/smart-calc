@@ -13,6 +13,11 @@ git clone https://github.com/sisthers/smart-calc.git
 make install
 ```
 
+### Launch
+```
+./build/SmartCalc_V_2_0
+```
+
 ### Tests
 ```
 make test
